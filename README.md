@@ -2,7 +2,7 @@
 # Formation: Web development 2024
 
 
-## Des liens pour découvrir l"écosysteme du web dev 
+## Des liens pour découvrir l'écosysteme du web dev 
 
 
 ## 1.	SITE VEILLE WEBDESIGN
@@ -37,6 +37,7 @@
 ## 3.	STATE OF …
 
 - https://2022.stateofjs.com/fr-FR/
+- https://stateofreact.com/fr-FR/
  
 
 ## 4.	EXTENSIONS (tools) DE NAVIGATEUR
@@ -49,14 +50,14 @@
  - https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd
  
 ## 5.	CULTURE GÉNÉRALE
-### Keywords
+### Keywords todo
  
-## 6.	BUNDLE webdev
+## 6.	PACKAGE MANAGERS
 
-https://parceljs.org/
+- https://parceljs.org/
 
 
-## Site de recherche d’emplo ;
+## Site de recherche d’emploi
 
 - Linkedin.com
 - Glassdoor.com
