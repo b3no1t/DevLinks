@@ -4,8 +4,12 @@
 
 ## Des liens pour découvrir l'écosysteme du web dev 
 
+## 1. Accéssibilité
+- https://www.anysurfer.be/fr/documentation/articles/categorie/structure-et-semantique
+- https://www.w3.org/WAI/fundamentals/accessibility-intro/fr
+- http://www.pompage.net/traduction/accesibilitemoteursderecherche
 
-## 1.	SITE VEILLE WEBDESIGN
+## 2.	SITE DE VEILLE WEBDESIGN
 
 - https://thefwa.com
 - https://www.awwwards.com/
@@ -16,7 +20,7 @@
 - https://abduzeedo.com/
 
 
-## 2.	SITE DE VEILLE WEB DEVELOPPER 
+## 3.	SITE DE VEILLE WEB DEVELOPPER 
 
 - https://developer.mozilla.org/fr/docs/Learn/Common_questions
 - https://dev.to/
@@ -34,13 +38,13 @@
 - https://roadmap.sh/backend
 
 
-## 3.	STATE OF …
+## 4.	STATE OF …
 
 - https://2022.stateofjs.com/fr-FR/
 - https://stateofreact.com/fr-FR/
  
 
-## 4.	EXTENSIONS (tools) DE NAVIGATEUR
+## 5.	EXTENSIONS DE NAVIGATEUR ET OUTILS
  - https://chrispederick.com/work/web-developer/
  - https://github.com/igorlogius/localstorage-editor
  - https://chromewebstore.google.com/detail/hover-inspector-like-in-z/
@@ -48,16 +52,18 @@
  - https://github.com/oftheheadland/Colorblindly
  - https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi
  - https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd
+ - https://shadows.brumm.af/
+ - https://color.adobe.com/fr/
  
-## 5.	CULTURE GÉNÉRALE
+## 6.	CULTURE GÉNÉRALE
 ### Keywords todo
  
-## 6.	PACKAGE MANAGERS
+## 7.	PACKAGE MANAGERS
 
 - https://parceljs.org/
 
 
-## Site de recherche d’emploi
+## 8. Site de recherche d’emploi
 
 - Linkedin.com
 - Glassdoor.com
