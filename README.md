@@ -55,9 +55,6 @@
  - https://shadows.brumm.af/
  - https://color.adobe.com/fr/
  
-## 6.	CULTURE GÉNÉRALE
-### Keywords todo
- 
 ## 7.	PACKAGE MANAGERS
 
 - https://parceljs.org/
