@@ -39,7 +39,6 @@
 
 
 ## 4.	STATE OF …
-
 - https://2022.stateofjs.com/fr-FR/
 - https://stateofreact.com/fr-FR/
  
@@ -55,12 +54,25 @@
  - https://shadows.brumm.af/
  - https://color.adobe.com/fr/
  
-## 7.	PACKAGE MANAGERS
-
+## 7. HELPERS
+### BUILDERS
 - https://parceljs.org/
-
+- https://prepros.io/
+- https://laravel-mix.com/
+### TOOLS
+- https://cssgradient.io
+- https://www.colorsandfonts.com/
+- https://www.site24x7.com/tools/
+- https://any-api.com/
+- https://tinypng.com/
+- https://www.fontsquirrel.com/tools/webfont-generator
 
 ## 8. Site de recherche d’emploi
-
 - Linkedin.com
 - Glassdoor.com
+
+## Articles
+### NOTATION DES CLASSES CSS
+- https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/
+- https://putaindecode.io/articles/petite-definition-de-bem/
+- https://www.30secondsofcode.org/collections/p/1/
