@@ -10,6 +10,9 @@
 - <https://www.w3.org/WAI/fundamentals/accessibility-intro/fr>
 - <http://www.pompage.net/traduction/accesibilitemoteursderecherche>
 
+## 1.2 Responsive 
+- device dimension : <https://screensiz.es/>
+
 ## 1.5 React Links
 - <https://github.com/enaqx/awesome-react>
 
