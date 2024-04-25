@@ -20,46 +20,46 @@
 
 ## 2. SITE DE VEILLE WEBDESIGN
 
-- <https://thefwa.com>
-- <https://www.awwwards.com/>
-- <https://css-tricks.com/>
-- <http://www.pompage.net/>
-- <https://coolors.co/>
-- <https://tympanus.net/codrops/>
-- <https://abduzeedo.com/>
+- <https://thefwa.com> / liste de sites
+- <https://www.awwwards.com/> / liste de sites
+- <https://css-tricks.com/> / tutorial réf.
+- <http://www.pompage.net/> / traduction d'article en English
+- <https://coolors.co/> / Color tools
+- <https://tympanus.net/codrops/> / Proof of concept and tutorial
+- <https://abduzeedo.com/> / Orienté design
 
 ## 3. SITE DE VEILLE WEB DEVELOPPER
 
 - <https://developer.mozilla.org/fr/docs/Learn/Common_questions>
-- <https://dev.to/>
-- <https://www.alsacreations.com/outils/>
-- <https://developer.mozilla.org/fr/>
-- codepen.com
-- <https://grafikart.fr/>
-- <https://openclassrooms.com/fr/courses>
-- <https://github.com/>
-- <https://medium.com/tag/web-development>
-- <https://capitainewp.io/>
-- <https://devdocs.io/>
-- <https://octopus.do/>
-- <https://javascript30.com/>
-- <https://roadmap.sh/backend>
+- <https://dev.to/> / dev posts
+- <https://www.alsacreations.com/outils/> / Tools
+- <https://developer.mozilla.org/fr/> / Offical documentation
+- codepen.com 
+- <https://grafikart.fr/> / Tuto
+- <https://openclassrooms.com/fr/courses> / Tuto
+- <https://github.com/> 
+- <https://medium.com/tag/web-development> / dev posts
+- <https://capitainewp.io/> / Wordpress tuto
+- <https://devdocs.io/> / Docs
+- <https://octopus.do/> / site map Tools
+- <https://javascript30.com/> / The Js exercice
+- <https://roadmap.sh/backend> / exemple de carriere
 
 ## 4. STATE OF …
 
-- <https://2022.stateofjs.com/fr-FR/>
-- <https://stateofreact.com/fr-FR/>
+- <https://2022.stateofjs.com/fr-FR/> / Le JS en 2022 dans le monde
+- <https://stateofreact.com/fr-FR/> / idem poiur react
 
 ## 5. EXTENSIONS DE NAVIGATEUR ET OUTILS
 
-- <https://chrispederick.com/work/web-developer/>
-- <https://github.com/igorlogius/localstorage-editor>
-- <https://chromewebstore.google.com/detail/hover-inspector-like-in-z/>
-- <https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf>
-- <https://github.com/oftheheadland/Colorblindly>
-- <https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi>
-- <https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd>
-- <https://shadows.brumm.af/>
+- <https://chrispederick.com/work/web-developer/> / extension vitale
+- <https://github.com/igorlogius/localstorage-editor> / Local storage
+- <https://chromewebstore.google.com/detail/hover-inspector-like-in-z/> / inspecteur html
+- <https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf> / verification de l'accésibilité
+- <https://github.com/oftheheadland/Colorblindly> / accéssibilité des couleurs
+- <https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi> / ext. Accéssibilité
+- <https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd> / dev tools
+- <https://shadows.brumm.af/> / dev tools / les ombres css
 - <https://color.adobe.com/fr/>
 
 ## 8. Site de recherche d'emploi
@@ -71,13 +71,13 @@
 
 ### BUILDERS
 
-- <https://parceljs.org/>
-- <https://prepros.io/>
-- <https://laravel-mix.com/>
+- <https://parceljs.org/> / builder
+- <https://prepros.io/>  Gui Builder
+- <https://laravel-mix.com/> / builder
 
 ### TOOLS
 
-- <https://cssgradient.io>
+- <https://cssgradient.io> 
 - <https://www.colorsandfonts.com/>
 - <https://www.site24x7.com/tools/>
 - <https://any-api.com/>
