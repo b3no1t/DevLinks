@@ -12,6 +12,8 @@
 
 ## 1.2 Responsive 
 - device dimension : <https://screensiz.es/>
+- sur Alsacreation: <https://www.alsacreations.com/article/lire/1559-responsive-web-design-present-futur-adaptation-mobile.html>
+- sur Grafikart (video): <https://grafikart.fr/tutoriels/media-query-css-1050>
 
 ## 1.5 React Links
 - <https://github.com/enaqx/awesome-react>
