@@ -27,6 +27,7 @@
 - <https://coolors.co/> / Color tools
 - <https://tympanus.net/codrops/> / Proof of concept and tutorial
 - <https://abduzeedo.com/> / Orienté design
+- <https://www.webdesignerdepot.com>
 
 ## 3. SITE DE VEILLE WEB DEVELOPPER
 
