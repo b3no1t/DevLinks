@@ -75,9 +75,10 @@
 
 ### BUILDERS
 
-- <https://parceljs.org/> / builder
-- <https://prepros.io/>  Gui Builder
-- <https://laravel-mix.com/> / builder
+- <https://parceljs.org/>
+- Vite JS <https://vitejs.dev>
+- <https://prepros.io/>  avec interface graphique
+- <https://laravel-mix.com/>
 
 ### TOOLS
 
@@ -98,4 +99,8 @@
 
 
 ### Ultimate Front End link
-- <https://www.beforepost.com> 
+- <https://www.beforepost.com>
+
+## WordPress ecosystem
+- Quizz WordPress <https://capitainewp.io/quiz-wordpress/>
+- Glossaire des termes de WordPress: <https://www.wpbeginner.com/glossary>
