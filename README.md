@@ -83,6 +83,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - <https://www.fontsquirrel.com/tools/webfont-generator>
 - <https://www.beforepost.com>
 - Plein de petit outils sympa: <https://tiny-helpers.dev/>
+- Open Source dev lists: <https://freestuff.dev/>
 
 ## Articles
 ### NOMMAGE DES CLASSES CSS
