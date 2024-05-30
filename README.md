@@ -32,6 +32,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 ## Inspiration Dev
 
 - <https://developer.mozilla.org/fr/docs/Learn/Common_questions>
+- Codecademy: <https://www.codecademy.com/>
 - <https://dev.to/> / dev posts
 - <https://www.alsacreations.com/outils/> / Tools
 - <https://developer.mozilla.org/fr/> / Offical documentation
