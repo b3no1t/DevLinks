@@ -84,6 +84,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - <https://www.beforepost.com>
 - Plein de petit outils sympa: <https://tiny-helpers.dev/>
 - Open Source dev lists: <https://freestuff.dev/>
+- Awesome Chart.js <https://github.com/chartjs/awesome>
 
 ## Articles
 ### NOMMAGE DES CLASSES CSS
