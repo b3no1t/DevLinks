@@ -74,7 +74,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - <https://prepros.io/>  avec interface graphique
 - <https://laravel-mix.com/>
 
-### TOOL
+### TOOL / Utiles
 
 - <https://cssgradient.io> 
 - <https://www.colorsandfonts.com/>
@@ -82,6 +82,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - <https://tinypng.com/>
 - <https://www.fontsquirrel.com/tools/webfont-generator>
 - <https://www.beforepost.com>
+- Plein de petit outils sympa: <https://tiny-helpers.dev/>
 
 ## Articles
 ### NOMMAGE DES CLASSES CSS
