@@ -1,52 +1,50 @@
 # Formation: Web development 2024
 Une collections de liens pour découvrir l'écosysteme du developement web.
 
-## CSS
+## 🖌 CSS
 - Liste des selecteurs et des propriétés CSS <https://css-tricks.com/almanac/>
-- CSS Battle: <https://cssbattle.dev/>
+- CSS Battle, jeu solo ou multi : <https://cssbattle.dev/>
 
-## Accéssibilité
+## 🔎 Accéssibilité
 
 - <https://www.anysurfer.be/fr/documentation/articles/categorie/structure-et-semantique>
 - <https://www.w3.org/WAI/fundamentals/accessibility-intro/fr>
 - <http://www.pompage.net/traduction/accesibilitemoteursderecherche>
 
-## Responsive 
-- device dimension : <https://screensiz.es/>
-- sur Alsacreation: <https://www.alsacreations.com/article/lire/1559-responsive-web-design-present-futur-adaptation-mobile.html>
-- sur Grafikart (video): <https://grafikart.fr/tutoriels/media-query-css-1050>
+## 📏 Responsive 
+- Une liste des dimensions des appareils : <https://screensiz.es/>
+- articcle d'Alsacreation, site français, tuto et article. : <https://www.alsacreations.com/article/lire/1559-responsive-web-design-present-futur-adaptation-mobile.html>
+- article de Grafikart (video): <https://grafikart.fr/tutoriels/media-query-css-1050>
 
-## React 
+## 🚀 React 
 - <https://github.com/enaqx/awesome-react>
 
-## Inspiration Design
+## 🥇 Inspiration pour le Front
 
-- <https://thefwa.com> / liste de sites
-- <https://www.awwwards.com/> / liste de sites
-- <https://css-tricks.com/> / tutorial réf.
-- <http://www.pompage.net/> / traduction d'article en English
-- <https://coolors.co/> / Color tools
-- <https://tympanus.net/codrops/> / Proof of concept and tutorial
-- <https://abduzeedo.com/> / Orienté design
-- <https://www.webdesignerdepot.com>
+- The FWA, classement des meilleurs site en termes de communication/publicité <https://thefwa.com>
+- Awwwards, classement de sites <https://www.awwwards.com/>
+- Css Tricks aka Chris coyer, le site de références en Front end <https://css-tricks.com/>
+- Traduction française d'article de références <http://www.pompage.net/>
+- Portail sur le front-end, high level: <https://tympanus.net/codrops/>
+- Magazine sur le web: <https://abduzeedo.com/>
+- Ressources pour designer: <https://www.webdesignerdepot.com>
 
-## Inspiration Dev
+## 🧩 Inspiration pour le Dev
 
-- <https://developer.mozilla.org/fr/docs/Learn/Common_questions>
-- Codecademy: <https://www.codecademy.com/>
-- <https://dev.to/> / dev posts
-- <https://www.alsacreations.com/outils/> / Tools
-- <https://developer.mozilla.org/fr/> / Offical documentation
-- codepen.com 
-- <https://grafikart.fr/> / Tuto
-- <https://openclassrooms.com/fr/courses> / Tuto
-- <https://github.com/> 
-- <https://medium.com/tag/web-development> / dev posts
-- <https://capitainewp.io/> / Wordpress tuto
-- <https://devdocs.io/> / Docs
-- <https://octopus.do/> / site map Tools
-- <https://javascript30.com/> / The Js exercice
-- <https://roadmap.sh/backend> / exemple de carriere
+- La documentation officielle html/CSS/JS/ … <https://developer.mozilla.org/fr/docs/Learn/Common_questions>
+- Codecademy, tutoriels: <https://www.codecademy.com/learn>
+- Magazine sur le Dév: <https://dev.to/>
+- Magazine Alsacréation: <https://www.alsacreations.com>
+- Front-End paradise: <https://codepen.com> 
+- Plateforme de formation française: <https://grafikart.fr/>
+- Plateforme de formation française: <https://openclassrooms.com/fr/courses>
+- Le C.V dess Dév, cloud pour code: <https://github.com/> 
+- Articel sir le monde du Dév: <https://medium.com/tag/web-development>
+- Wordpress, tutoriels: <https://capitainewp.io/>
+- Site regroupant TOUTE la documentation des langages web: <https://devdocs.io/>
+- Plan d'un site: <https://octopus.do/>
+- Cardio JS: <https://javascript30.com/> 
+- Plan de carriere: <https://roadmap.sh/backend>
 
 ## L'état de:
 - Javascript en 2022 <https://2022.stateofjs.com/fr-FR/>
@@ -55,45 +53,45 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 ## EXTENSIONS DE NAVIGATEUR ET OUTILS
 
 - <https://chrispederick.com/work/web-developer/> / extension vitale
-- <https://github.com/igorlogius/localstorage-editor> / Local storage
-- <https://chromewebstore.google.com/detail/hover-inspector-like-in-z/> / inspecteur html
+- Visualise le LocalStorage du navigateur:<https://github.com/igorlogius/localstorage-editor>
+- inspecteur html: <https://chromewebstore.google.com/detail/hover-inspector-like-in-z/> / 
 - <https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf> / verification de l'accésibilité
 - <https://github.com/oftheheadland/Colorblindly> / accéssibilité des couleurs
 - <https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi> / ext. Accéssibilité
 - <https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd> / dev tools
-- <https://shadows.brumm.af/> / dev tools / les ombres css
-- <https://color.adobe.com/fr/>
+- Generateur d'ombre en CSS: <https://shadows.brumm.af/>
 
 ## 8. Site de recherche d'emploi
 
 - Linkedin.com
 - Glassdoor.com
 
-## BUNDLER
+## 🧳 Préprocesseur, Builder
 
-- <https://parceljs.org/>
-- Vite JS <https://vitejs.dev>
-- <https://prepros.io/>  avec interface graphique
-- <https://laravel-mix.com/>
+- Bundler/Builder, easy <https://parceljs.org/>
+- Vite JS, moyen <https://vitejs.dev>
+- Logiciel: <https://prepros.io/> 
+- Php/Laravel + Webpack = <https://laravel-mix.com/>
 
 ### TOOL / Utiles
 
-- <https://cssgradient.io> 
-- <https://www.colorsandfonts.com/>
-- <https://any-api.com/>
-- <https://tinypng.com/>
-- <https://www.fontsquirrel.com/tools/webfont-generator>
-- <https://www.beforepost.com>
+- Dégrdé CSS <https://cssgradient.io> 
+- Couleur et police de caractéres: <https://www.colorsandfonts.com/>
+- Moteur de recherche d'API<https://any-api.com/>
+- Optimisation d'image <https://tinypng.com/>
+- generateur de webfonts <https://www.fontsquirrel.com/tools/webfont-generator>
+- Liste d'outils pour le front-end: <https://www.beforepost.com>
 - Plein de petit outils sympa: <https://tiny-helpers.dev/>
 - Open Source dev lists: <https://freestuff.dev/>
-- Awesome Chart.js <https://github.com/chartjs/awesome>
+- Awesome Chart.js,  <https://github.com/chartjs/awesome>
+- Snippets, bout de code: <https://www.30secondsofcode.org/collections/p/1/>
 
 ## Articles
 ### NOMMAGE DES CLASSES CSS
 
-- <https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/>
+- A propos de la nommination des classes: <https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/>
 - B.E.M <https://putaindecode.io/articles/petite-definition-de-bem/>
-- Snippets <https://www.30secondsofcode.org/collections/p/1/>
+
 
 ## WordPress ecosystem
 - Quizz WordPress <https://capitainewp.io/quiz-wordpress/>
