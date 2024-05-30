@@ -3,6 +3,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 
 ## CSS
 - Liste des selecteurs et des propriétés CSS <https://css-tricks.com/almanac/>
+- CSS Battle: <https://cssbattle.dev/>
 
 ## Accéssibilité
 
