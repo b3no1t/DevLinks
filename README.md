@@ -65,10 +65,10 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - <https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd> / dev tools
 - Generateur d'ombre en CSS: <https://shadows.brumm.af/>
 
-## 8. Site de recherche d'emploi
+## 🧐 Renseignement sur les entreprises
 
-- Linkedin.com
-- Glassdoor.com
+- <[Linkedin.com](https://fr.linkedin.com/?trk=article-ssr-frontend-x-article_nav-header-logo)>
+- <Glassdoor.com>
 
 ## 🧳 Préprocesseur, Builder
 
