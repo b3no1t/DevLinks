@@ -22,7 +22,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 ## 🚀 React 
 - <https://github.com/enaqx/awesome-react>
 
-## 🥇 Inspiration pour le Front
+## 🥇 Front End links
 
 - The FWA, classement des meilleurs site en termes de communication/publicité <https://thefwa.com>
 - Awwwards, classement de sites <https://www.awwwards.com/>
@@ -33,7 +33,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Magazine sur le web: <https://abduzeedo.com/>
 - Ressources pour designer: <https://www.webdesignerdepot.com>
 
-## 🧩 Inspiration pour le Dev
+## 🧩 Back End links
 
 - La documentation officielle html/CSS/JS/ … <https://developer.mozilla.org/fr/docs/Learn/Common_questions>
 - Codecademy, tutoriels: <https://www.codecademy.com/learn>
