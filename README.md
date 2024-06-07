@@ -1,6 +1,9 @@
 # Formation: Web development 2024
 Une collections de liens pour découvrir l'écosysteme du developement web.
 
+## ✔️ Validators
+- <https://www.w3.org/developers/tools/>
+
 ## 🖌 CSS
 - Liste des selecteurs et des propriétés CSS <https://css-tricks.com/almanac/>
 - CSS Battle, jeu solo ou multi : <https://cssbattle.dev/>
