@@ -32,6 +32,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Portail sur le front-end, high level: <https://tympanus.net/codrops/>
 - Magazine sur le web: <https://abduzeedo.com/>
 - Ressources pour designer: <https://www.webdesignerdepot.com>
+- Portail dev : <https://typeoverflow.com/>
 
 ## 🧩 Back End links
 
