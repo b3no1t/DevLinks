@@ -90,6 +90,9 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Open Source dev lists: <https://freestuff.dev/>
 - Awesome Chart.js,  <https://github.com/chartjs/awesome>
 - Snippets, bout de code: <https://www.30secondsofcode.org/collections/p/1/>
+- Randow profil: <https://randomuser.me/>
+- Lorem ipsum html: <http://officeipsum.com/index.php>
+- Lorem ipsum corporate: <https://loripsum.net/>
 
 ## Articles
 ### NOMMAGE DES CLASSES CSS
