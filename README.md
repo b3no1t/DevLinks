@@ -8,6 +8,13 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Liste des selecteurs et des propriétés CSS <https://css-tricks.com/almanac/>
 - CSS Battle, jeu solo ou multi : <https://cssbattle.dev/>
 
+## PHOTO BANK
+- [un](https://placehold.co/)
+- <https://www.perplexity.ai>
+- <https://unsplash.com>
+- <https://pexels.com>
+
+
 ## 🔎 Accéssibilité
 
 - <https://www.anysurfer.be/fr/documentation/articles/categorie/structure-et-semantique>
