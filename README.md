@@ -40,6 +40,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Magazine sur le web: <https://abduzeedo.com/>
 - Ressources pour designer: <https://www.webdesignerdepot.com>
 - Portail dev : <https://typeoverflow.com/>
+- Les principales balises : <https://thomgo.github.io/trainingIntegration/cheatsheetHTML/index.html>
 
 ## 🧩 Back End links
 
