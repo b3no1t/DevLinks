@@ -33,7 +33,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 
 - The FWA, classement des meilleurs site en termes de communication/publicité <https://thefwa.com>
 - Awwwards, classement de sites <https://www.awwwards.com/>
-- Css Tricks aka Chris coyer, le site de références en Front end <https://css-tricks.com/>
+- Css Tricks aka Chris Coyer, le site de références en Front end <https://css-tricks.com/>
 - Template HTML <https://github.com/alsiam/web-projects?tab=readme-ov-file>
 - Traduction française d'article de références <http://www.pompage.net/>
 - Portail sur le front-end, high level: <https://tympanus.net/codrops/>
