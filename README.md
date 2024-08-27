@@ -29,7 +29,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 ## 🚀 React 
 - <https://github.com/enaqx/awesome-react>
 
-## 🥇 Front End links
+## 🥇 Front End / Design links
 
 - The FWA, classement des meilleurs site en termes de communication/publicité <https://thefwa.com>
 - Awwwards, classement de sites <https://www.awwwards.com/>
@@ -41,6 +41,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Ressources pour designer: <https://www.webdesignerdepot.com>
 - Portail dev : <https://typeoverflow.com/>
 - Les principales balises : <https://thomgo.github.io/trainingIntegration/cheatsheetHTML/index.html>
+- Colour contrast checker: <https://colourcontrast.cc/>
 
 ## 🧩 Back End links
 
@@ -51,8 +52,8 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Front-End paradise: <https://codepen.com> 
 - Plateforme de formation française: <https://grafikart.fr/>
 - Plateforme de formation française: <https://openclassrooms.com/fr/courses>
-- Le C.V dess Dév, cloud pour code: <https://github.com/> 
-- Articel sir le monde du Dév: <https://medium.com/tag/web-development>
+- Le C.V des Dév, cloud pour code: <https://github.com/> 
+- Article par les dév pour les dév: <https://medium.com/tag/web-development>
 - Wordpress, tutoriels: <https://capitainewp.io/>
 - Site regroupant TOUTE la documentation des langages web: <https://devdocs.io/>
 - Plan d'un site: <https://octopus.do/>
@@ -88,15 +89,15 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 
 ### TOOL / Utiles
 
-- Dégrdé CSS <https://cssgradient.io> 
+- Générateur de dégradé CSS <https://cssgradient.io> 
 - Couleur et police de caractéres: <https://www.colorsandfonts.com/>
 - Moteur de recherche d'API<https://any-api.com/>
 - Optimisation d'image <https://tinypng.com/>
 - generateur de webfonts <https://www.fontsquirrel.com/tools/webfont-generator>
-- Liste d'outils pour le front-end: <https://www.beforepost.com>
+- Pléthore d'outils pour le front-end: <https://www.beforepost.com>
 - Plein de petit outils sympa: <https://tiny-helpers.dev/>
 - Open Source dev lists: <https://freestuff.dev/>
-- Awesome Chart.js,  <https://github.com/chartjs/awesome>
+- Awesome Chart.js:  <https://github.com/chartjs/awesome>
 - Snippets, bout de code: <https://www.30secondsofcode.org/collections/p/1/>
 - Randow profil: <https://randomuser.me/>
 - Lorem ipsum html: <http://officeipsum.com/index.php>
@@ -106,10 +107,10 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 ### NOMMAGE DES CLASSES CSS
 
 - A propos de la nommination des classes: <https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/>
-- B.E.M <https://putaindecode.io/articles/petite-definition-de-bem/>
+- Block Element Modifier aka B.E.M <https://putaindecode.io/articles/petite-definition-de-bem/>
 
 
-## WordPress ecosystem
+## WordPress et Twig
 - Quizz WordPress <https://capitainewp.io/quiz-wordpress/>
 - Glossaire des termes de WordPress: <https://www.wpbeginner.com/glossary>
 - Documentation Timber v2 <https://timber.github.io/docs/v2/>
