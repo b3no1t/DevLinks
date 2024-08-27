@@ -4,9 +4,18 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 ## ✔️ Validators
 - <https://www.w3.org/developers/tools/>
 
+## 👩🏻‍💻 Code editor and I.D.E
+- Visual Code Studio raccourci windows <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf>
+- Python I.D.E <https://www.jetbrains.com/pycharm/>
+- WebStorm, Front End oriented I.D.E <https://www.jetbrains.com/webstorm/>
+- Code Pen, code & community <https://codepen.io/>
+- JSFiddle code editor <https://jsfiddle.net/>
+- Code Sandbox, code editor Full Stack <https://codesandbox.io>
+
 ## 🖌 CSS
 - Liste des selecteurs et des propriétés CSS <https://css-tricks.com/almanac/>
 - CSS Battle, jeu solo ou multi : <https://cssbattle.dev/>
+- 12 ombres de texte CSS à copier/coller <https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/>
 
 ## PHOTO BANK
 - [un](https://placehold.co/)
@@ -33,7 +42,9 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 
 - The FWA, classement des meilleurs site en termes de communication/publicité <https://thefwa.com>
 - Awwwards, classement de sites <https://www.awwwards.com/>
+- Collection de sites <https://webawards.com/>
 - Css Tricks aka Chris Coyer, le site de références en Front end <https://css-tricks.com/>
+- "Front-end education for the real world.", magazine <https://piccalil.li>
 - Template HTML <https://github.com/alsiam/web-projects?tab=readme-ov-file>
 - Traduction française d'article de références <http://www.pompage.net/>
 - Portail sur le front-end, high level: <https://tympanus.net/codrops/>
@@ -42,6 +53,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Portail dev : <https://typeoverflow.com/>
 - Les principales balises : <https://thomgo.github.io/trainingIntegration/cheatsheetHTML/index.html>
 - Colour contrast checker: <https://colourcontrast.cc/>
+- Design process in Figma <https://piccalil.li/blog/redesigning-piccalilli-the-first-part-of-the-design-process/>
 
 ## 🧩 Back End links
 
@@ -78,7 +90,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 ## 🧐 Renseignement sur les entreprises
 
 - <[Linkedin.com](https://fr.linkedin.com/?trk=article-ssr-frontend-x-article_nav-header-logo)>
-- <Glassdoor.com>
+- Glassdoor, <https://fr.glassdoor.be/index.htm?countryPickerRedirect=true>
 
 ## 🧳 Préprocesseur, Builder
 
@@ -102,6 +114,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Randow profil: <https://randomuser.me/>
 - Lorem ipsum html: <http://officeipsum.com/index.php>
 - Lorem ipsum corporate: <https://loripsum.net/>
+- 👌🏼 Collecting All Cheat Sheets <https://overapi.com/>
 
 ## Articles
 ### NOMMAGE DES CLASSES CSS
