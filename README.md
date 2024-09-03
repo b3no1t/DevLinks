@@ -72,7 +72,8 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Cardio JS: <https://javascript30.com/> 
 - Plan de carriere: <https://roadmap.sh/backend>
 
-## L'état de:
+## State Of … (étude demographique de la pratique de …)
+- State of CSS 2024 <https://survey.devographics.com/en-US/survey/state-of-css/2024>
 - Javascript en 2022 <https://2022.stateofjs.com/fr-FR/>
 - React en 2022 <https://stateofreact.com/fr-FR/>
 
