@@ -17,18 +17,17 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - CSS Battle, jeu solo ou multi : <https://cssbattle.dev/>
 - 12 ombres de texte CSS à copier/coller <https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/>
 
-## PHOTO BANK
+## 🔎 PHOTO BANK
 - [un](https://placehold.co/)
 - <https://www.perplexity.ai>
 - <https://unsplash.com>
 - <https://pexels.com>
 
-## DATA
+## 👩🏻‍💻 PRIVATE DATA
 - Lutte pour la regulaton de la techno-police: <https://www.laquadrature.net/>
 - Etat belge: <https://www.belgium.be/fr/justice/respect_de_la_vie_privee/protection_des_donnees_personnelles>
 
 ## 🔎 Accéssibilité
-
 - <https://www.anysurfer.be/fr/documentation/articles/categorie/structure-et-semantique>
 - <https://www.w3.org/WAI/fundamentals/accessibility-intro/fr>
 - <http://www.pompage.net/traduction/accesibilitemoteursderecherche>
@@ -41,8 +40,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 ## 🚀 React 
 - <https://github.com/enaqx/awesome-react>
 
-## 🥇 Front End / Design links
-
+## 🥇 Front-End /  U.I/U.X
 - The FWA, classement des meilleurs site en termes de communication/publicité <https://thefwa.com>
 - Awwwards, classement de sites <https://www.awwwards.com/>
 - Collection de sites <https://webawards.com/>
