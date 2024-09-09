@@ -25,6 +25,7 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 
 ## DATA
 - Lutte pour la regulaton de la techno-police: <https://www.laquadrature.net/>
+- Etat belge: <https://www.belgium.be/fr/justice/respect_de_la_vie_privee/protection_des_donnees_personnelles>
 
 ## 🔎 Accéssibilité
 
