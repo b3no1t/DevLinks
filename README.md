@@ -1,4 +1,4 @@
-# Formation: Web development 2024
+# Web development 2024
 Une collections de liens pour découvrir l'écosysteme du developement web.
 
 ## ✔️ Validators
