@@ -23,6 +23,8 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - <https://unsplash.com>
 - <https://pexels.com>
 
+## DATA
+- Lutte pour la regulaton de la techno-police: <https://www.laquadrature.net/>
 
 ## 🔎 Accéssibilité
 
@@ -79,7 +81,6 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - React en 2022 <https://stateofreact.com/fr-FR/>
 
 ## EXTENSIONS DE NAVIGATEUR ET OUTILS
-
 - <https://chrispederick.com/work/web-developer/> / extension vitale
 - Visualise le LocalStorage du navigateur:<https://github.com/igorlogius/localstorage-editor>
 - inspecteur html: <https://chromewebstore.google.com/detail/hover-inspector-like-in-z/> / 
