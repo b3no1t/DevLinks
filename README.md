@@ -5,6 +5,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - <https://www.w3.org/developers/tools/>
 
 ## 👩🏻‍💻 Code editor and I.D.E
+- EditorConfig <https://editorconfig.org/>
 - Visual Code Studio raccourci windows <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf>
 - Python I.D.E <https://www.jetbrains.com/pycharm/>
 - WebStorm, Front End oriented I.D.E <https://www.jetbrains.com/webstorm/>
