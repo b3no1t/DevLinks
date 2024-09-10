@@ -52,6 +52,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - <https://github.com/enaqx/awesome-react>
 
 ## 🥇 Front-End /  U.I/U.X
+- The Open Graph protocol: <https://ogp.me/>
 - The FWA, classement des meilleurs site en termes de communication/publicité <https://thefwa.com>
 - Awwwards, classement de sites <https://www.awwwards.com/>
 - Collection de sites <https://webawards.com/>
