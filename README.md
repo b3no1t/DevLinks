@@ -1,5 +1,5 @@
 # Web development 2024
-Une collections de liens pour découvrir l'écosysteme du developement web.
+Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## ✔️ Validators
 - <https://www.w3.org/developers/tools/>
