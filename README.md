@@ -37,6 +37,16 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - articcle d'Alsacreation, site français, tuto et article. : <https://www.alsacreations.com/article/lire/1559-responsive-web-design-present-futur-adaptation-mobile.html>
 - article de Grafikart (video): <https://grafikart.fr/tutoriels/media-query-css-1050>
 
+## 🏭 Framework CSS
+- liste des framework les plus utilisés : <https://2023.stateofcss.com/en-US/css-frameworks/>
+- Tailwind CSS <https://tailwindcss.com/docs/installation>
+- [<[Bootstrap ](https://getbootstrap.com/docs/5.3/getting-started/introduction/)>]
+- UI Kit: <https://getuikit.com/docs/introduction>
+- Bulma: <https://bulma.io/documentation/>
+- PureCSS: <https://purecss.io/>
+- Open Props: <https://open-props.style/>
+- …
+
 ## 🚀 React 
 - <https://github.com/enaqx/awesome-react>
 
@@ -74,11 +84,10 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Cardio JS: <https://javascript30.com/> 
 - Plan de carriere: <https://roadmap.sh/backend>
 
-## State Of … (étude demographique et technologique de la pratique de …)
-- State of CSS 2024 <https://survey.devographics.com/en-US/survey/state-of-css/2024>
-- Javascript en 2022 <https://2022.stateofjs.com/fr-FR/>
-- React en 2022 <https://stateofreact.com/fr-FR/>
-- State of HTML 2024 <https://survey.devographics.com/fr-FR/survey/state-of-html/2024>
+## 📚 State Of … (étude demographique et technologique de la pratique du dév dans le monde)
+- Tous les 'state of …' <https://survey.devographics.com/fr-FR>
+- ❤️ State of CSS 2023 <https://survey.devographics.com/fr-FR/survey/state-of-css/2023>
+- ❤️ State of HTML 2023 <https://survey.devographics.com/fr-FR/survey/state-of-html/2023>
 
 ## EXTENSIONS DE NAVIGATEUR ET OUTILS
 - <https://chrispederick.com/work/web-developer/> / extension vitale
@@ -119,11 +128,11 @@ Une collections de liens pour découvrir l'écosysteme du developement web.
 - Lorem ipsum corporate: <https://loripsum.net/>
 - 👌🏼 Collecting All Cheat Sheets <https://overapi.com/>
 
-## Articles
-### NOMMAGE DES CLASSES CSS
-
+## 📰 Articles, tutoriels et documentation
 - A propos de la nommination des classes: <https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/>
-- Block Element Modifier aka B.E.M <https://putaindecode.io/articles/petite-definition-de-bem/>
+- 🍬 Block Element Modifier aka B.E.M <https://putaindecode.io/articles/petite-definition-de-bem/>
+- Maîtriser la spécificité CSS @Layer <https://www.alsacreations.com/article/lire/1871-Maitriser-la-specificite-CSS-grace-a-Cascade-Layers.html>
+- Les citations en HTML avec blockquote, cite et q <https://www.alsacreations.com/article/lire/1908-Les-citations-en-HTML-avec-blockquote-cite-et-q.html>
 
 
 ## WordPress et Twig
