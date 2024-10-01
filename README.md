@@ -105,7 +105,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - ❤️ State of CSS 2023 <https://survey.devographics.com/fr-FR/survey/state-of-css/2023>
 - ❤️ State of HTML 2023 <https://survey.devographics.com/fr-FR/survey/state-of-html/2023>
 
-## EXTENSIONS DE NAVIGATEUR ET OUTILS
+## 🔩 EXTENSIONS DE NAVIGATEUR ET OUTILS
 
 - <https://chrispederick.com/work/web-developer/> / extension vitale
 - Visualise le LocalStorage du navigateur:<https://github.com/igorlogius/localstorage-editor>
