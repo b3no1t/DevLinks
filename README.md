@@ -21,6 +21,8 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - Liste des selecteurs et des propriétés CSS <https://css-tricks.com/almanac/>
 - CSS Battle, jeu solo ou multi : <https://cssbattle.dev/>
 - 12 ombres de texte CSS à copier/coller <https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/>
+- Grid by Example <https://gridbyexample.com/>
+- 10 projets pour débutant: <https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/>
 
 ## 🔎 PHOTO BANK
 
