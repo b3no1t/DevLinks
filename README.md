@@ -103,6 +103,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 - Tous les 'state of …' <https://survey.devographics.com/fr-FR>
 - ❤️ State of CSS 2023 <https://survey.devographics.com/fr-FR/survey/state-of-css/2023>
+- ✌️ State of CSS 2024 <https://2024.stateofcss.com/en-US>
 - ❤️ State of HTML 2023 <https://survey.devographics.com/fr-FR/survey/state-of-html/2023>
 
 ## 🔩 EXTENSIONS DE NAVIGATEUR ET OUTILS
