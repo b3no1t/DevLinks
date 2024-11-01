@@ -155,6 +155,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## WordPress et Twig
 
+- Où commencer ? <https://fr.wordpress.org/support/article/new-to-wordpress-where-to-start/>
 - Quizz WordPress <https://capitainewp.io/quiz-wordpress/>
 - Glossaire des termes de WordPress: <https://www.wpbeginner.com/glossary>
 - Documentation Timber v2 <https://timber.github.io/docs/v2/>
