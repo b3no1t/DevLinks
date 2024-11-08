@@ -18,6 +18,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- Print CSS, advance. <https://www.pompage.net/traduction/impression>
 - Liste des selecteurs et des propriétés CSS <https://css-tricks.com/almanac/>
 - CSS Battle, jeu solo ou multi : <https://cssbattle.dev/>
 - 12 ombres de texte CSS à copier/coller <https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/>
