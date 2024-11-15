@@ -18,6 +18,9 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- Media Queries - Anti séche: <https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/>
+- Références CSS <https://tympanus.net/codrops/css_reference/>
+- 👉 Anti Séches CSS <https://www.land-of-web.com/freebies/css-shorthand-property-cheat-sheet.html>
 - Print CSS, advance. <https://www.pompage.net/traduction/impression>
 - Liste des selecteurs et des propriétés CSS <https://css-tricks.com/almanac/>
 - CSS Battle, jeu solo ou multi : <https://cssbattle.dev/>
