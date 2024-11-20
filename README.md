@@ -18,6 +18,9 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- Easings: <https://easings.co/>
+- Easings: <https://easings.net/fr>
+- Animation CSS: <https://cubic-bezier.com/#.17,.67,.83,.67>
 - Media Queries - Anti séche: <https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/>
 - Références CSS <https://tympanus.net/codrops/css_reference/>
 - 👉 Anti Séches CSS <https://www.land-of-web.com/freebies/css-shorthand-property-cheat-sheet.html>
