@@ -18,6 +18,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- Selector Game: <https://flukeout.github.io/>
 - Easings: <https://easings.co/>
 - Easings: <https://easings.net/fr>
 - Animation CSS: <https://cubic-bezier.com/#.17,.67,.83,.67>
