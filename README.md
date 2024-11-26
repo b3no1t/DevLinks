@@ -32,6 +32,10 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - Grid by Example <https://gridbyexample.com/>
 - 10 projets pour débutant: <https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/>
 
+## S.V.G
+
+- Practical SVG book free: <https://practical-svg.chriscoyier.net/>
+
 ## 🔎 PHOTO BANK
 
 - [un](https://placehold.co/)
