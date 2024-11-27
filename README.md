@@ -43,6 +43,10 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - <https://unsplash.com>
 - <https://pexels.com>
 
+## Javacript
+
+- Mat Marquis's Javascript book (free) <https://javascript-for-web-designers.abookapart.com/>
+
 ## 👩🏻‍💻 PRIVATE DATA
 
 - Lutte pour la regulaton de la techno-police: <https://www.laquadrature.net/>
