@@ -18,6 +18,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- Fluid Responsive design: <https://utopia.fyi/>
 - ❕CSS day year event in Amsterdam <https://cssday.nl/2024>
 - Selector Game: <https://flukeout.github.io/>
 - Easings: <https://easings.co/>
