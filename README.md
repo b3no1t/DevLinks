@@ -18,6 +18,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 📄 HTML
 - Html débutant slide show: <https://fr.slideshare.net/slideshow/html-css-250553974/250553974>
+- Html <https://fr.slideshare.net/slideshow/langage-html-81121667/81121667>
 
 ## 🖌 CSS
 
