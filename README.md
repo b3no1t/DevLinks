@@ -16,6 +16,9 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - JSFiddle code editor <https://jsfiddle.net/>
 - Code Sandbox, code editor Full Stack <https://codesandbox.io>
 
+## 📄 HTML
+- Html débutant slide show: <https://fr.slideshare.net/slideshow/html-css-250553974/250553974>
+
 ## 🖌 CSS
 - Conférences:
   - “Designing Intrinsic Layouts” by Jen Simmons <https://youtu.be/AMPKmh98XLY?si=ryV5xjSVdXVTWuvt>
