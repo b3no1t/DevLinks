@@ -17,7 +17,9 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - Code Sandbox, code editor Full Stack <https://codesandbox.io>
 
 ## 🖌 CSS
-
+- Conférences:
+  - “Designing Intrinsic Layouts” by Jen Simmons <https://youtu.be/AMPKmh98XLY?si=ryV5xjSVdXVTWuvt>
+  - CSS DAYS 2024: <https://www.youtube.com/watch?v=VS3ERmCsM_o&list=PLjnstNlepBvO0-I7iwqpkOY_fwAop6Pl->
 - Harmonie des caractéres: <https://typescale.com/>
 - Fluid Responsive design: <https://utopia.fyi/>
 - ❕CSS day year event in Amsterdam <https://cssday.nl/2024>
