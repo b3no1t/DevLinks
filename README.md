@@ -20,6 +20,8 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - Html débutant slide show: <https://fr.slideshare.net/slideshow/html-css-250553974/250553974>
 
 ## 🖌 CSS
+
+- Découverte CSS <https://grafikart.fr/formations/css>
 - Conférences:
   - “Designing Intrinsic Layouts” by Jen Simmons <https://youtu.be/AMPKmh98XLY?si=ryV5xjSVdXVTWuvt>
   - CSS DAYS 2024: <https://www.youtube.com/watch?v=VS3ERmCsM_o&list=PLjnstNlepBvO0-I7iwqpkOY_fwAop6Pl->
