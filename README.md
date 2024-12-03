@@ -22,6 +22,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- Magic Of Css: <https://adamschwartz.co/magic-of-css/>
 - Découverte CSS <https://grafikart.fr/formations/css>
 - Conférences:
   - “Designing Intrinsic Layouts” by Jen Simmons <https://youtu.be/AMPKmh98XLY?si=ryV5xjSVdXVTWuvt>
