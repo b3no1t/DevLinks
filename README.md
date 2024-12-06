@@ -26,6 +26,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- Définir son style, après BEM, CAP <https://blog.ippon.fr/2020/05/04/definir-son-style-css-avec-cap/>
 - Magic Of Css: <https://adamschwartz.co/magic-of-css/>
 - Découverte CSS <https://grafikart.fr/formations/css>
 - Conférences:
