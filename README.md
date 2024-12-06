@@ -16,6 +16,9 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - JSFiddle code editor <https://jsfiddle.net/>
 - Code Sandbox, code editor Full Stack <https://codesandbox.io>
 
+## Typographie
+- 💂‍♀️ Programming fonts list: <https://github.com/saifulapm/my-fonts>
+ 
 ## 📄 HTML
 - Html débutant slide show: <https://fr.slideshare.net/slideshow/html-css-250553974/250553974>
 - Html <https://fr.slideshare.net/slideshow/langage-html-81121667/81121667>
