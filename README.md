@@ -49,6 +49,8 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 - 12 ombres de texte CSS à copier/coller <https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/>
 - Grid by Example <https://gridbyexample.com/>
 - 10 projets pour débutant: <https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/>
+- Clip Path tool: <https://bennettfeely.com/clippy/>
+- Sara Soueidian, a propos de la propirété Clip-Path: <https://www.sarasoueidan.com/blog/css-svg-clipping/>
 
 ## S.V.G
 
