@@ -26,6 +26,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- CSS Wrapped 2024: <https://chrome.dev/css-wrapped-2024/?utm_source=convertkit&utm_medium=email&utm_campaign=So%20many%20amazing%20features%20added%20to%20CSS%20in%202024%20%F0%9F%A4%AF%20-%2015916148/>
 - Définir son style, après BEM, CAP <https://blog.ippon.fr/2020/05/04/definir-son-style-css-avec-cap/>
 - Magic Of Css: <https://adamschwartz.co/magic-of-css/>
 - Découverte CSS <https://grafikart.fr/formations/css>
