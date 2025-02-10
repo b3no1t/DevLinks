@@ -26,6 +26,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 
 ## 🖌 CSS
 
+- <https://sass-guidelin.es>
 - CSS WEEKLY: <https://css-weekly.com/>
 - La Cascade, Un peu de tout sur CSS, HTML, SVG et JS, traduit du web anglophone <https://la-cascade.io/>
 - CSS Wrapped 2024: <https://chrome.dev/css-wrapped-2024/?utm_source=convertkit&utm_medium=email&utm_campaign=So%20many%20amazing%20features%20added%20to%20CSS%20in%202024%20%F0%9F%A4%AF%20-%2015916148/>
