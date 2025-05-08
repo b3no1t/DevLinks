@@ -70,7 +70,7 @@ Une collection de lien sur le Front-end, Back-end et Design UI/UX.
 ## Javacript
 
 - Mat Marquis's Javascript book (free) <https://javascript-for-web-designers.abookapart.com/>
-- [https://yourdevkit.com/](https://yourdevkit.com/cheat-sheet)
+- [Cheat Sheets](https://yourdevkit.com/cheat-sheet)
 
 ## 👩🏻‍💻 PRIVATE DATA
 
